@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "494478938128",
+    "firebase_url": "https://nerdeyim-dostum.firebaseio.com",
+    "project_id": "nerdeyim-dostum",
+    "storage_bucket": "nerdeyim-dostum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494478938128:android:a4de72fbf0f14ca1",
+        "android_client_info": {
+          "package_name": "com.example.aysenur.firebaselw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494478938128-83retrp9mbp6elh8882rohs3jn5oocrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aysenur.firebaselw",
+            "certificate_hash": "9b4c30d16000b142d4e69004489eb18a2fd879c1"
+          }
+        },
+        {
+          "client_id": "494478938128-1t634anksrlkp3ok7gdh9vcvm6nk1e6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiroA-29BEJ3D0hUcaTLXxdz3pBlcDKOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494478938128-1t634anksrlkp3ok7gdh9vcvm6nk1e6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
